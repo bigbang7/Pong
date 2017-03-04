@@ -1,7 +1,7 @@
 const PADDLE_HEIGHT = 100;
 const PADDLE_THICKNESS = 10;
 const MAX_SCORE=3;
-
+//comentario random
 var canvas;
 var canvasContext;
 
